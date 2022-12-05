@@ -4,6 +4,6 @@
 
 [1. Bit Manupulation](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
 
-[2. Prime factorization](https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/)
-             
-   [2.1 code primefactor](https://ideone.com/e3oXrX)
+[2. Prime factorization](https://www.geeksforgeeks.org/prime-factorization-using-sieve-olog-n-multiple-queries/)    
+
+   -----------[2.1 code primefactor](https://ideone.com/e3oXrX)
